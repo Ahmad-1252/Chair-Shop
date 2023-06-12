@@ -259,7 +259,7 @@ header,
     margin-bottom: 96px;
 }
 
-@media(max-width:600px) {
+@media(max-width:720px) {
     body {
         width: 550px;
         height: auto;
