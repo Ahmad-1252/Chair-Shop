@@ -17,7 +17,8 @@ body {
 
 .container {
 
-    width: 85%;
+    width: 80vw;
+    /* width: 1200px; */
     height: auto;
     margin: 0px auto;
 }
@@ -95,10 +96,48 @@ header {
     /* font-size: 35px; */
     /* letter-spacing: .2rem; */
     font-weight: bold;
-    margin-bottom: 24px;
+    margin-bottom: 2.4vw;
     font-size: 44px;
     line-height: 1.1;
     letter-spacing: -1px;
+}
+
+@media(max-width:600px) {
+    body {
+        width: 550px;
+        height: auto;
+        margin: auto 50px;
+        font-size: 12px !important;
+    }
+
+    .head-main {
+        gap: 10px;
+    }
+
+    .hero {
+        width: 200px;
+        height: 200px;
+    }
+
+    .head-main h1 {
+        margin-bottom: 20px !important;
+        font-size: 20px;
+    }
+
+    .head-main p {
+        font-size: 12px !important;
+        line-height: 1.0 !important;
+    }
+
+    .shop-des {
+        margin-bottom: 10px;
+    }
+
+    .btn {
+        font-size: 10px;
+        padding: 5px 10px;
+    }
+
 }
 
 .head-main p {
