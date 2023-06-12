@@ -296,6 +296,9 @@ header,
         padding: 5px 10px;
         background-color:red;
     }
+   .btn--big {
+        background-color: red;
+    }
 
     .variety {
         width: 550px;
