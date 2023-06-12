@@ -265,6 +265,7 @@ header,
         height: auto;
         margin: auto 50px;
         font-size: 12px !important;
+       background-color:red !important;
     }
 
     .head-main {
