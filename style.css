@@ -294,6 +294,7 @@ header,
     .btn {
         font-size: 10px;
         padding: 5px 10px;
+        background-color:red;
     }
 
     .variety {
