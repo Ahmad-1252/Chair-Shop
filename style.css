@@ -267,6 +267,17 @@ header,
         font-size: 12px !important;
         background-color: #087f5b !important;
     }
+   
+   
+.container {
+
+    width: 80vw;
+    /* width: 1200px; */
+    height: auto;
+    margin: 0px auto;
+   background-color:red;
+}
+
 
     .head-main {
         gap: 10px;
