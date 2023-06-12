@@ -259,7 +259,7 @@ header,
     margin-bottom: 96px;
 }
 
-@media(max-width:720px) {
+@media(max-width:600px) {
     body {
         width: 550px;
         height: auto;
@@ -287,6 +287,7 @@ header,
     }
 
     .shop-des {
+       font-size:.8em;
         margin-bottom: 10px;
     }
 
