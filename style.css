@@ -297,7 +297,7 @@ header,
         background-color:red;
     }
    .btn--big {
-        background-color: red;
+        background-color: red !important;
     }
 
     .variety {
