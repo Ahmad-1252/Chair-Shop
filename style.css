@@ -343,7 +343,7 @@ header,
         height: auto;
         margin: auto 50px;
         font-size: 8px !important;
-        background-color: #087f5b !important;
+/*         background-color: #087f5b !important; */
     }
    
    
@@ -386,7 +386,7 @@ header,
     }
 
     .btn--big {
-        background-color: red;
+/*         background-color: red; */
     }
 
     .variety {
