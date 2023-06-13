@@ -265,7 +265,7 @@ header,
         height: auto;
         margin: auto 50px;
         font-size: 12px !important;
-        background-color: #087f5b !important;
+/*         background-color: #087f5b !important; */
     }
    
    
@@ -275,7 +275,7 @@ header,
     /* width: 1200px; */
     height: auto;
     margin: 0px auto;
-   background-color:red;
+/*    background-color:red; */
 }
 
 
